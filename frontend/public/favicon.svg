@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" shape-rendering="geometricPrecision">
+  <rect width="32" height="32" rx="8" fill="#0b0f19"/>
+  <g transform="translate(2,2)">
+    <polygon stroke="#52606f" stroke-width="1.18" fill="none" stroke-linejoin="round" points="14,3.75 22.88,8.88 22.88,19.12 14,24.25 5.12,19.12 5.12,8.88"/>
+    <polygon stroke="#64748b" stroke-width="1" stroke-opacity="0.52" fill="none" stroke-linejoin="round" points="14,8.75 19.05,11.6 19.05,16.4 14,19.25 8.95,16.4 8.95,11.6"/>
+    <path d="M14 8.15 L9.1 17.05 L18.9 17.05 Z" stroke="#4a5568" stroke-width="1.08" fill="none" stroke-linejoin="round"/>
+    <line x1="14" y1="14.05" x2="14" y2="8.15" stroke="#4a5568" stroke-width="0.82" stroke-opacity="0.62" stroke-linecap="round"/>
+    <line x1="14" y1="14.05" x2="9.1" y2="17.05" stroke="#4a5568" stroke-width="0.82" stroke-opacity="0.62" stroke-linecap="round"/>
+    <line x1="14" y1="14.05" x2="18.9" y2="17.05" stroke="#4a5568" stroke-width="0.82" stroke-opacity="0.62" stroke-linecap="round"/>
+    <circle cx="14" cy="8.15" r="1.42" fill="#52606f" stroke="rgba(11,15,25,0.42)" stroke-width="0.5"/>
+    <circle cx="9.1" cy="17.05" r="1.42" fill="#52606f" stroke="rgba(11,15,25,0.42)" stroke-width="0.5"/>
+    <circle cx="18.9" cy="17.05" r="1.42" fill="#52606f" stroke="rgba(11,15,25,0.42)" stroke-width="0.5"/>
+    <circle cx="14" cy="14.05" r="2.38" fill="#22d3ee" stroke="rgba(11,15,25,0.48)" stroke-width="0.65"/>
+    <circle cx="14" cy="2.9" r="1.05" fill="#22d3ee" stroke="rgba(11,15,25,0.35)" stroke-width="0.45"/>
+  </g>
+</svg>

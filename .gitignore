@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# build output
+dist/
+frontend/dist/
+
+# env files
+.env
+.env.*
+frontend/.env
+frontend/.env.*
+backend/.env
+backend/.env.*
+
+# python virtual env
+venv/
+backend/venv/
+
+# uploads / generated files
+backend/uploads/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
